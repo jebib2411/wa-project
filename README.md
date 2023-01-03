@@ -20,8 +20,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/tfkhdyt/wa-sticker-bot.git
-cd wa-sticker-bot
+git clone https://github.com/jebib2411/project-wa.git
+cd project-wa
 pnpm install
 # npm install
 # yarn install
