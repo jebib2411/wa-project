@@ -20,7 +20,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/jebib2411/project-wa.git
+git clone https://github.com/jebib2411/wa-project.git
 cd project-wa
 pnpm install
 # npm install
